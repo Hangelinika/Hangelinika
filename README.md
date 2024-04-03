@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hangelinika
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning PyTorch, ML, and Python for analysis.
+- 🌱 I’m currently learning NLP and Transform Models.
 - 💞️ I’m looking to collaborate on interesting projects that can make the world a better place.
 - 📫 How to reach me - over here.
 - 😄 Pronouns: She/her
